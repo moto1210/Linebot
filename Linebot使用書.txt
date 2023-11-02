@@ -8,6 +8,9 @@ git add .　→　ファイルをGitHubに挙げるのを宣言する
 Git commit –m “addした内容をメモ”　→　addした物の説明
 Git push origin main　→　メインブランチにファイルをアップロード
 
+・よく使うコマンド
+code . →　その場所を親とした開発環境に入れる
+
 
 
 
