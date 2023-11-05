@@ -1,7 +1,20 @@
+新しくプロジェクトを作る方法
+・Create a new repositoryを選択
+・Repository name名前を付ける
+・Descriptionとりま入れる
+・public →　誰でも見れる
+・Private　→　招待した人以外見れない
+・Add a README file多分自由
+・HTTPのURLをコピー
+・git init
+・git remote add URL2行上でコピーしたURLを指定
+
 使うコマンド
 ・ブランチを切って作業するコマンド
 Git branch “ブランチ名”　→　ブランチ名で指定したブランチができる
 git checkout “ブランチ名”　→　ブランチ名で指定したブランチに入る
+
+
 
 ・ブランチで書き換えた内容をGitに挙げる
 git add .　→　ファイルをGitHubに挙げるのを宣言する
